@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a student at Fudan NLP Group.
+
+Currently, I focus on Natural Language Processing, particularly in reward modeling, model alignment (RLHF) and pre-trained language models.
+
+✨Please click here to find out more information about me 👉 http://shihandou.com
+
 <!--
 **Ablustrund/Ablustrund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
