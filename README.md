@@ -6,6 +6,8 @@ Currently, I focus on Natural Language Processing, particularly in reward modeli
 
 ✨Please click here to find out more information about me 👉 http://shihandou.com
 
+Contact: shdou21@m.fudan.edu.cn
+
 <!--
 **Ablustrund/Ablustrund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
