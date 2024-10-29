@@ -2,7 +2,7 @@
 
 I am a student at Fudan NLP Group.
 
-Currently, I focus on Natural Language Processing, particularly in reward modeling, model alignment (RLHF) and pre-trained language models.
+Currently, I focus on Natural Language Processing, particularly in reasoning, alignment including reward modeling.
 
 ✨Please click here to find out more information about me 👉 http://shihandou.com
 
